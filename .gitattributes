@@ -1,2 +1,0 @@
-*.sh linguist-language=Text
-install.sh linguist-detectable=false
